@@ -1,3 +1,6 @@
+Find this presenation here:
+[bit.ly/tips-for-GIS-careers](http://bit.ly/tips-for-GIS-careers)
+
 [![Circle CI](https://circleci.com/gh/tmcw/big/tree/gh-pages.svg?style=svg&circle-token=2963848e42fe67b8a66a2ad2d6dd99d05bdde6a4)](https://circleci.com/gh/tmcw/big/tree/gh-pages)
 
 This is a ridiculous presentation system that works great for
